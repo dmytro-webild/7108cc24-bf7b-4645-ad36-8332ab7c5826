@@ -64,13 +64,13 @@ export default function LandingPage() {
         {
           imageSrc: "http://img.b2bpic.net/free-photo/full-shot-woman-decorating-front-door-outside_23-2150562139.jpg",          imageAlt: "Clean sparkling residential windows"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358973.jpg",          imageAlt: "Window glass cleaning"},
+          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358973.jpg?_wi=1",          imageAlt: "Window glass cleaning"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-green-grass-covered-wet-spider-web_181624-13042.jpg",          imageAlt: "Window frame detailing"},
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-green-grass-covered-wet-spider-web_181624-13042.jpg?_wi=1",          imageAlt: "Window frame detailing"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150359027.jpg",          imageAlt: "Window sill cleaning"},
+          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150359027.jpg?_wi=1",          imageAlt: "Window sill cleaning"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358977.jpg",          imageAlt: "Second story window cleaning"},
+          imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358977.jpg?_wi=1",          imageAlt: "Second story window cleaning"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/house-backyard-street-color-back_1203-4994.jpg",          imageAlt: "Full exterior window detail"},
       ]}
@@ -85,7 +85,7 @@ export default function LandingPage() {
       features={[
         {
           title: "Exterior Window Glass Cleaning",          description: "Hand-cleaned for a streak-free, crystal-clear finish removing all grime.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358973.jpg",            imageAlt: "Glass cleaning"},
+            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358973.jpg?_wi=2",            imageAlt: "Glass cleaning"},
           items: [
             {
               text: "Streak-free finish",              icon: Sparkles,
@@ -101,7 +101,7 @@ export default function LandingPage() {
         },
         {
           title: "Window Frame Detailing",          description: "Detailed frame wipe-down to remove cobwebs and environmental buildup.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-green-grass-covered-wet-spider-web_181624-13042.jpg",            imageAlt: "Frame cleaning"},
+            imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-green-grass-covered-wet-spider-web_181624-13042.jpg?_wi=2",            imageAlt: "Frame cleaning"},
           items: [
             {
               text: "Frame wipe-down",              icon: CheckCircle,
@@ -117,7 +117,7 @@ export default function LandingPage() {
         },
         {
           title: "Sill / Ledge Cleaning",          description: "Cleaning outer ledges where dirt, pollen, and debris collect over time.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150359027.jpg",            imageAlt: "Sill cleaning"},
+            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150359027.jpg?_wi=2",            imageAlt: "Sill cleaning"},
           items: [
             {
               text: "Debris removal",              icon: CheckCircle,
@@ -133,7 +133,7 @@ export default function LandingPage() {
         },
         {
           title: "Second-Story Exterior Windows",          description: "Safe, professional cleaning for those hard-to-reach high windows.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358977.jpg",            imageAlt: "Second story reach"},
+            imageSrc: "http://img.b2bpic.net/free-photo/man-doing-professional-home-cleaning-service_23-2150358977.jpg?_wi=2",            imageAlt: "Second story reach"},
           items: [
             {
               text: "High window expertise",              icon: CheckCircle,
